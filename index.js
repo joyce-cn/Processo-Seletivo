@@ -105,4 +105,3 @@ const numeros = [13, 27, 9, 11, 7];
 const numerosAoQuadrado = numeros.map(num => Math.pow(num, 2));
 
 console.log("Array com números elevados ao quadrado:", numerosAoQuadrado);
-
